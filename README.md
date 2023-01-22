@@ -1,6 +1,6 @@
 # 2023CS-Study
 
-# ✨ Rule
+# 👑 Rule
 - 스터디 모임은 매주 일요일 오전 7 시 30 분 진행
 - 모임을 가질 때마다 [Wiki](https://github.com/For-Wishes/2023CS-Study/wiki) 작성
 - 일주일에 3 번 이상 CS 주제 학습
@@ -37,6 +37,27 @@ Edit : 문서 수정
 - 3rd party란?
 
 ## 📌 운영체제
+- 운영체제란?
+- 프로세스
+- 스레드
+- 멀티 프로세싱
+- 멀티 스레딩
+- 프로세스와 스레드 차이
+- 프로세스 주소 공간
+- 공유 자원과 임계 영역
+- 교착 상태
+- 인터럽트(Interrupt)
+- 시스템 콜(System Call)
+- PCB와 Context Switching
+- IPC(Inter Process Communication)
+- CPU 스케줄링
+- 데드락(DeadLock)
+- Race Condition
+- 세마포어(Semaphore) & 뮤텍스(Mutex)
+- 페이징 & 세그먼테이션
+- 페이지 교체 알고리즘
+- 메모리(Memory)
+- 파일 시스템
 
 ## 📌 네트워크
 

@@ -46,13 +46,12 @@ Edit : 문서 수정
 - 프로세스와 스레드 차이
 - 프로세스 주소 공간
 - 공유 자원과 임계 영역
-- 교착 상태
+- 교착 상태(데드락, DeadLock)
 - 인터럽트(Interrupt)
 - 시스템 콜(System Call)
 - PCB와 Context Switching
 - IPC(Inter Process Communication)
 - CPU 스케줄링
-- 데드락(DeadLock)
 - Race Condition
 - 세마포어(Semaphore) & 뮤텍스(Mutex)
 - 페이징 & 세그먼테이션
